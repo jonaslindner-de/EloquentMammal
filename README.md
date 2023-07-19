@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonaslindner-de
+- 👋 Hi, I’m Jonas.
 - 👀 I’m interested in R for data science and economics.
 
 <!---
