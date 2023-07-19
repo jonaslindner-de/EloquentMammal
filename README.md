@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @EloquentMammal
-- 👀 I’m interested in Python and R for data science.
-- 🌱 I’m currently learning how to code simulations in Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jonaslindner-de
+- 👀 I’m interested in R for data science and economics.
 
 <!---
 EloquentMammal/EloquentMammal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
